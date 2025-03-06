@@ -11,8 +11,17 @@ To use this userscript, you'll need to have **Tampermonkey** (or a similar users
 - **[Tampermonkey for Chrome](https://www.tampermonkey.net/?browser=chrome)**
 - **[Tampermonkey for Firefox](https://www.tampermonkey.net/?browser=firefox)**
 - **[Tampermonkey for Safari](https://www.tampermonkey.net/?browser=safari)**
-
 Visit one of the above links based on your browser and install the Tampermonkey extension.
+
+
+#### 1.5. Enable Developer Mode (Chrome Only)
+
+If you're using Google Chrome, you must enable Developer Mode for this userscript to work:
+
+- Open Chrome and go to chrome://extensions/
+- Toggle "Developer mode" (top-right corner) to ON
+
+<sub>[More Info](https://www.tampermonkey.net/faq.php#Q209) from the Tampermonkey FAQ</sub>
 
 ### 2. Install the Userscript
 
