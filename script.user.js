@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2025-03-06
 // @description  Inject a link to XIVAnalysis on FFLogs report pages
-// @author       github.com/nomnivor
+// @author       github.com/nomnivore
 // @match        https://www.fflogs.com/reports/*
 // @icon         https://xivanalysis.com/logo.png
 // @grant        none
